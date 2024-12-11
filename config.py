@@ -1,0 +1,14 @@
+from aiogram import Bot
+ADMIN = 88582648
+TOKEN = "7719633639:AAG9R3sNI4zFkTKLIOszMDED1k3pX9Go23U"
+bot = Bot(token=TOKEN)
+
+#ADMINS
+#RAHIMOV_ID == 885826488
+#SOLIBEKOV_ID == 6002362682
+
+
+
+
+#Discription + rasm
+#
